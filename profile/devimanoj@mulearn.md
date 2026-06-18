@@ -1,5 +1,6 @@
 # Devi Manoj (Computer Science Student,Ai Enthusiast)
-### Squad Domain: [Coder| FIFA Nation:Argentina
+### Squad Domain: Coder | FIFA Nation:Argentina
+
 
 ### About Me
 
@@ -46,7 +47,7 @@ I am  Devi, a Computer Science Engineering student at SJCET, PALAI, . I am passi
 
 #### μFIFA World Cup 2026 - Tournament Goals:
 
--- Contribute to open-source projects and collaborative initiatives.
+- Contribute to open-source projects and collaborative initiatives.
 - Strengthen my GitHub portfolio with meaningful proof of work.
 - Improve my skills in software development, AI, and project building.
 - Connect with developers, designers, and innovators from different domains.
@@ -56,7 +57,7 @@ I am  Devi, a Computer Science Engineering student at SJCET, PALAI, . I am passi
 
 ## 🏅 Portfolio Highlights
 
->
+
 
 #### History of Open Source and Collaborative Contributions:
 
@@ -105,11 +106,11 @@ Through these communities and programs, I have learned the importance of collabo
 #### Domain Profiles:
 
 
-💻 **Coder**
+ **Coder**
 
 * GitHub: https://github.com/Devimanoj2005
-*
-🌐 **Professional & Community Profile**
+
+ **Professional & Community Profile**
 
 * LinkedIn:www.linkedin.com/in/devi-manoj-a8a909326
 * μLearn Profile:https://app.mulearn.org/dashboard/profile
